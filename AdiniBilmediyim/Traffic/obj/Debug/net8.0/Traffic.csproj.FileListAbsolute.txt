@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\bin\Debug\net8.0\Traffic.exe
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\bin\Debug\net8.0\Traffic.deps.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\bin\Debug\net8.0\Traffic.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\bin\Debug\net8.0\Traffic.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\bin\Debug\net8.0\Traffic.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\refint\Traffic.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\Traffic.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Traffic\obj\Debug\net8.0\ref\Traffic.dll

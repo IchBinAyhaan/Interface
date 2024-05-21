@@ -1,0 +1,5 @@
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Song\obj\Debug\net8.0\Playlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Song\obj\Debug\net8.0\Playlist.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Song\obj\Debug\net8.0\Playlist.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Song\obj\Debug\net8.0\Playlist.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Song\obj\Debug\net8.0\Playlist.sourcelink.json

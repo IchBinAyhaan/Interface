@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\bin\Debug\net8.0\Vehicle.exe
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\bin\Debug\net8.0\Vehicle.deps.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\bin\Debug\net8.0\Vehicle.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\bin\Debug\net8.0\Vehicle.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\bin\Debug\net8.0\Vehicle.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\Vehicle.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll

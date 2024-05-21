@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\bin\Debug\net8.0\Months.exe
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\bin\Debug\net8.0\Months.deps.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\bin\Debug\net8.0\Months.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\bin\Debug\net8.0\Months.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\bin\Debug\net8.0\Months.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\refint\Months.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\Months.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Months\obj\Debug\net8.0\ref\Months.dll

@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\bin\Debug\net8.0\AdiniBilmediyim.exe
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\bin\Debug\net8.0\AdiniBilmediyim.deps.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\bin\Debug\net8.0\AdiniBilmediyim.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\bin\Debug\net8.0\AdiniBilmediyim.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\bin\Debug\net8.0\AdiniBilmediyim.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\refint\AdiniBilmediyim.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\AdiniBilmediyim.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\AdiniBilmediyim\obj\Debug\net8.0\ref\AdiniBilmediyim.dll

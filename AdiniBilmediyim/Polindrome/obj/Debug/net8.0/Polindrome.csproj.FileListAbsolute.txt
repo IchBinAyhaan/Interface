@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\bin\Debug\net8.0\Polindrome.exe
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\bin\Debug\net8.0\Polindrome.deps.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\bin\Debug\net8.0\Polindrome.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\bin\Debug\net8.0\Polindrome.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\bin\Debug\net8.0\Polindrome.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\refint\Polindrome.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\Polindrome.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Polindrome\obj\Debug\net8.0\ref\Polindrome.dll

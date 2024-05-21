@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\bin\Debug\net8.0\Mathematic.exe
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\bin\Debug\net8.0\Mathematic.deps.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\bin\Debug\net8.0\Mathematic.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\bin\Debug\net8.0\Mathematic.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\bin\Debug\net8.0\Mathematic.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\refint\Mathematic.dll
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.pdb
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\Mathematic.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan1\AdiniBilmediyim\Mathematic\obj\Debug\net8.0\ref\Mathematic.dll
