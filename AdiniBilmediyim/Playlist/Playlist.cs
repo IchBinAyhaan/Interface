@@ -1,15 +1,39 @@
-﻿
+
 
 namespace Playlist
 {
-    internal class Playlist
+    public class Playlist
     {
-        private Song[] songs;
-        public Song[] Songs { get =>songs }
+        public Song[] songs = new Song[0];
 
-        public Playlist()
-            songs= new Song[0]
+        public void AddSong(Song song)
+        {
+            Array.Resize(ref songs, songs.Length + 1);
+            songs[songs.Length - 1] = song;
+        }
+
+        public void GetAll()
+        {
+            foreach (Song song in songs)
+            {
+                song.GetDetails(song);
+            }
+        }
+
+        public void GetAllSongsByGenre(Genre genre)
+        {
+            foreach (Song song in songs)
+            {
+                if (genre == song.Genre)
+                {
+                    song.GetDetails(song);
+                }
+            }
+        }
+
+        internal void GetAllSongsByGenre(MusicGenre rock)
+        {
+            throw new NotImplementedException();
+        }
     }
-    public void AddSong()
-        Array.Resize( ref songs,songs.)
 }
